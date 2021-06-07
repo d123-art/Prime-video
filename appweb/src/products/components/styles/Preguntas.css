@@ -1,0 +1,40 @@
+.imagen1{
+    width: 1320px;
+    margin-left: -85px;
+
+}
+
+
+.clasess{
+    background-color: #222 !important;
+    margin-left: -0px;
+    width: 1500px;
+    height: 150px;
+    margin-left: -230px;
+}
+
+.imagenn{
+    width: 327px;
+        height: 47px;
+        margin-top: -45px;
+        margin-left: -80    px;
+        left: 50%;
+        top: 50%;
+}
+
+.font {
+    /* IMPORTANTE */
+    text-align: center;
+    margin-left: -110px;
+  }
+  
+  .font1 {
+   
+    padding: 5px;
+    margin: 5px;
+    width: 210px;
+    
+    margin-left: -30px;
+text-align: center;
+    display: inline-block;
+  }

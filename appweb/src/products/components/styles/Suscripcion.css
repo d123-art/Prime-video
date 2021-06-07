@@ -1,0 +1,159 @@
+
+.demo, .demo-2 {
+    position:relative;
+    height:50px;
+    width:600px;
+}
+.demo .form-search, .demo-2 .form-search {
+    position:absolute;
+    right:0px;
+    top:0px;
+}
+.demo .form-search input[type=text],
+.demo-2 .form-search input[type=text] {
+    font-family: inherit;
+    font-size: 70%;
+    border: transparent;
+    padding: 9px 4px;
+    width: 250px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+}
+.demo-2 .form-search input[type=text] {
+    width:40px;
+    position:absolute;
+    right:0px;
+    z-index:1000;
+    padding:8px 10px;
+    cursor:pointer;
+}
+.demo-2 .form-search div.input-group {
+    width:60px;
+}
+.demo .form-search input[type=text]:focus {
+    width: 300px;
+    background-color:transparent;
+}
+.demo-2 .form-search input[type=text]:focus {
+    position:absolute;
+    right:50px;
+    width:250px;
+    
+}
+.demo .form-search button.btn,
+.demo-2 .form-search button.btn {
+    padding:18px 29px;
+    border-top-right-radius:3px;
+    border-bottom-right-radius: 3px;
+    cursor:not-allowed;
+}
+.demo-2 .form-search button.btn {
+  padding:18px 12px;
+  background-color: ivory;
+}
+
+
+
+
+
+
+.foto{
+    background-color:#06111C;
+    width: 100rem;
+   height: 20rem;
+   margin-left: -85px;
+  
+  
+}
+
+.copy{
+    position: absolute;
+ width: 800px;
+ height: 300px;
+ left: 230px;
+ top: 70px;
+ text-align: center;
+    
+}
+
+.title{
+    width: 800px;
+ margin: 0 auto;
+}
+
+
+.padre{
+    
+    width: 450px;
+  
+    margin: 0 auto;
+
+}
+
+.img{
+    margin-left: -85px;
+    width: 1300px;
+  
+
+
+}
+
+.pepe{
+    background-color:#06111C;
+    width: 100rem;
+   height: 30rem;
+   margin-left: -85px;
+
+}
+
+.titled{
+    
+    width: 900px;
+ margin: 0 auto;
+ left: 280px;
+ top: 150px;
+ text-align: center;
+ padding-right:280px;
+    
+}
+.imagen{
+    width: 327px;
+    height: 47px;
+    margin-top: -23px;
+    margin-left: -283px;
+    left: 50%;
+    top: 50%;
+    
+    
+}
+.hola{
+    height: 80px;
+   width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+.padresito {
+    /* IMPORTANTE */
+    text-align: center;
+    margin-left: -150px;
+  }
+  
+  .hijo {
+   
+    padding: 25px;
+    margin: 22px;
+    width: 300px;
+    /* IMPORTANTE */
+    margin-left: -120px;
+
+    display: inline-block;
+  }
+  

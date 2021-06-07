@@ -1,0 +1,19 @@
+.text{
+    width: 1400px;
+    height: 100px;
+    margin-top: -10px;
+margin-left: -150px;
+left: 40%;
+top: 50%;
+text-align:center;
+}
+
+.text1{
+    width: 1400px;
+    height: 100px;
+    margin-top: -75px;
+margin-left: -150px;
+left: 10%;
+top: 50%;
+text-align:center;
+}

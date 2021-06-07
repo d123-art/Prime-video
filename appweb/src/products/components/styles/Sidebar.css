@@ -1,0 +1,238 @@
+
+nav.navbar {
+    background-color: #212F3D   ;
+	position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+
+}
+#body {
+    background-color: #000;
+    
+margin-left: -85px;
+width:120%;
+height: 30%;
+background-image: linear-gradient(to right, #000 30%, transparent 48%), url('https://m.media-amazon.com/images/G/33/digital/video/Magellan_MLP/BRND_MTH21_PVMagnetLeft_1440x675_Final_es-419_PVD6975.jpg');
+background-position: right top;
+  background-repeat: no-repeat;
+
+}
+
+.dv-copy-button{
+    width: 500px;
+        height: 500px;
+        margin-top: -10px;
+    margin-left: -1px;
+    left: 20%;
+    top: 50%;
+    text-align:center;
+
+
+}
+
+
+
+.dv-ms-su-mlp-1 .dv-image {
+
+background-image: none;
+width: 70rem;
+height: 50rem;
+margin-left: -0 px;
+
+}
+@media all and (max-width: 1024px)  and (orientation: portrait) {
+    .dv-ms-su-mlp-1 {
+        background-color: #000;
+        background-image: none;
+        margin-left: -0px;
+    }
+    .dv-ms-su-mlp-1 .dv-image {
+            background-image: linear-gradient(to top, #000 30%, transparent 49%), url('https://m.media-amazon.com/images/G/33/digital/video/Magellan_MLP/BRND_21_PVMagnetLeft_2880x1450_Final_no-Locale_HO_PVD6898_DBZVS2._CR575,0,865,675_AC_.jpg');
+            width: 70rem;
+height: 550px;
+margin-left: -0px;
+
+    }
+}
+
+
+.dv-ms-su-mlp-3 {
+    background-color: #000;
+        background-image: linear-gradient(to left, #000 40%, transparent 49%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_BR_Multititle_Mag2_PVD3904.jpg');
+    background-position: left top;
+    width: 90rem;
+    height: 32rem;
+    margin-left: -0px;
+    margin-top: -90px;
+  
+}
+.dv-ms-su-mlp-3 .dv-image {
+    background-image: none;
+    margin-left: -0px;
+    
+    
+}
+    @media all and (max-width: 1024px)  and (orientation: portrait) {
+        .dv-ms-su-mlp-3 {
+            background-color: #000;
+            background-image: linear-gradient(to right, #000 40%, transparent 58%), url('https://m.media-amazon.com/images/G/33/digital/video/Magellan_MLP/BRND_21_PVMagnetLeft_2880x1450_Final_no-Locale_HO_PVD6898_DBZVS2.jpg');
+           
+            background-image: none;
+            margin-left: -0px;
+           
+        }
+        .dv-ms-su-mlp-3 .dv-image {
+                background-image: linear-gradient(to top, #000 30%, transparent 49%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_BR_Multititle_Mag2_PVD3904._CR0,0,865,675_AC_.jpg');
+                width: 100rem;
+                height: 30rem;
+                margin-left: -0px;
+        }
+    }
+
+
+
+
+
+    .dv-ms-su-mlp-5 {
+        background-color: #fff !important;
+        margin-left: -0px;
+    }
+    .dv-ms-su-mlp-5 {
+        color: black !important;
+        margin-left: -0px;
+    }
+
+
+
+
+    .dv-ms-su-mlp-6 {
+        background-color: #000000;
+            background-image: linear-gradient(to right, #000000 38%, transparent 49%), url('https://m.media-amazon.com/images/G/33/digital/video/merch/2021/Movie/MLP_PVD2617_PRIME_V2.jpg');
+        background-position: right top;
+        width:90rem;
+        height: 32rem;
+        margin-left: -0px;
+       
+        
+ 
+        
+ 
+        
+        
+      
+
+    }
+    .dv-ms-su-mlp-6 .dv-image {
+        background-image: none;
+        margin-left: -0px;
+        
+        
+    }
+        @media all and (max-width: 1024px)  and (orientation: portrait) {
+            .dv-ms-su-mlp-6 {
+                background-color: #000000;
+                background-image: none;
+                margin-left: -0px;
+                
+                
+                
+            }
+            .dv-ms-su-mlp-6 .dv-image {
+                    background-image: linear-gradient(to top, #000000 30%, transparent 49%), url('https://m.media-amazon.com/images/G/33/digital/video/merch/2021/Movie/MLP_PVD2617_PRIME_V2._CR575,0,865,675_AC_.jpg');
+                    margin-left: -0px;
+                
+                }
+
+        }
+
+
+
+        .dv-ms-su-mlp-bottom {
+            background-color: #222 !important;
+            margin-left: -0px;
+            
+        }
+        .dv-ms-su-mlp-bottom li {
+            color: #b1b1b1 !important;
+            margin-left: -0px;
+        }
+
+        .padresito {
+            /* IMPORTANTE */
+            text-align: center;
+            margin-left: -150px;
+          }
+          
+          .hijo {
+           
+            padding: 25px;
+            margin: 22px;
+            width: 300px;
+            /* IMPORTANTE */
+            margin-left: -120px;
+        
+            display: inline-block;
+          }
+
+          .imagenaa{
+            width: 327px;
+            height: 47px;
+            margin-top: -23px;
+            margin-left: -283px;
+            left: 50%;
+            top: 50%;
+            
+
+          }
+    
+          
+          .holitas{
+              margin-right: 150px;
+              text-align:right;
+          }
+
+
+
+.boton{
+  
+ width: 2200px;
+
+}
+
+
+
+.fuente{
+    width: 880px;
+        height: 100px;
+        margin-top: -15px;
+    margin-left: -250px;
+    left: 40%;
+    top: 50%;
+    text-align:center;
+
+}
+
+
+.fuente_1{
+    width: 580px;
+        height: 80px;
+        margin-top: -1px;
+    margin-left: -0px;
+    left: 20%;
+    top: 20%;
+    text-align:left;
+
+}
+
+
+.texto2{
+    width: 580px;
+        height: 80px;
+        margin-top: -1px;
+    margin-left: -550px;
+    left: 20%;
+    top: 20%;
+    text-align:left;
+
+}

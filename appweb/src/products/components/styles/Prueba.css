@@ -1,0 +1,159 @@
+nav.navbarll {
+    background-color: #1F2327  ;
+	
+top: 0;
+left: 0;
+margin: 1px;
+height: 300px;
+margin-left: -85px;
+width:150%;
+
+
+}
+.tem-img{
+    width: 65px;
+    height: 47px;
+    margin-top: -230px;
+    margin-left: -143px;
+    left: 40%;
+    top: 50%;
+    position: absolute;
+  
+}
+
+.titullo{
+    width: 100px;
+    height: 150px;
+    margin-top: -350px;
+    margin-left: -260px;
+    left: 40%;
+    top: 50%;
+    
+    position: absolute;
+}
+
+.caja-destacada{
+    padding:15px 15px 20px 15px;
+    border-left:5px solid #F98200;
+    background:#F5F5F5;
+    margin-bottom:30px;
+    
+    }
+
+
+    .alert{
+        background-color: transparent;
+        border: 2px solid orange;
+        width: 880px;
+        height: 100px;
+        margin-top: -10px;
+    margin-left: -320px;
+    left: 40%;
+    top: 50%;
+    text-align:left;
+   
+    }
+
+
+    .texto{
+        width: 880px;
+        height: 100px;
+        margin-top: -10px;
+    margin-left: -150px;
+    left: 40%;
+    top: 50%;
+    text-align:center;
+
+    }
+
+    .texto2{
+        width: 880px;
+        height: 100px;
+        margin-top: -50px;
+    margin-left: -230px;
+    left: 40%;
+    top: 50%;
+    text-align:center;
+    }
+
+    .texto3{
+        width: 880px;
+        height: 100px;
+        margin-top: -60px;
+    margin-left: -190px;
+    left: 40%;
+    top: 50%;
+    text-align:center;
+    }
+
+    .texto4
+    {
+        width: 880px;
+        height: 100px;
+        margin-top: -70px;
+    margin-left: -190px;
+    left: 40%;
+    top: 50%;
+    text-align:center;
+    }
+    
+    
+    .pepito{
+       
+        
+        width: 580px;
+        height: 300px;
+        margin-top: -50px;
+    margin-left: -200px;
+    left: 40%;
+    top: 50%;
+    text-align:left;
+    }
+
+    .cajon1{
+        float:left;
+
+    }
+   
+
+
+    .imagenes{
+        width: 327px;
+            height: 47px;
+            margin-top: -23px;
+            margin-left: -530px;
+            left: 50%;
+            top: 50%;
+    }
+
+    .padresitoss {
+        /* IMPORTANTE */
+        text-align: center;
+        margin-left: -120px;
+      }
+      
+      .hijoos {
+       
+        padding: 5px;
+        margin: 124px;
+        width: 230px;
+        /* IMPORTANTE */
+        margin-left: -130px;
+    
+        display: inline-block;
+      }
+
+      .pag{
+          background-color: #1F2327;
+          width: 2000px;
+          height: 150px;
+          margin-left: -140px;
+      }
+
+      .imge{
+          width: 300px;
+          height: 100px;
+          float: right;
+          margin-left: 3px;
+          margin-top: -150px;
+        }
